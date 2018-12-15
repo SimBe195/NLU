@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+
+\bibitem{bengio:1994}
+Y.~Bengio, P.~Simard, and P.~Frasconi.
+\newblock Learning long-term dependencies with gradient descent is difficult.
+\newblock {\em IEEE Transactions on Neural Networks}, 5(2):157--166, 1994.
+
+\bibitem{goo:2018}
+C.-W. Goo, G.~Gao, Y.-K. Hsu, C.-L. Huo, T.-C. Chen, K.-W. Hsu, and Y.-N. Chen.
+\newblock Slot-gated modeling for joint slot filling and intent prediction.
+\newblock In {\em Proceedings of the 16th Annual Conference of the North
+  American Chapter of the Association for Computational Linguistics: Human
+  Language Technologies}, pages 753--757, June 2018.
+
+\bibitem{hemphill:1990}
+C.~T. Hemphill, J.~J. Godfrey, and G.~R. Doddington.
+\newblock The atis spoken language systems pilot corpus.
+\newblock In {\em Proceedings of the Workshop on Speech and Natural Language},
+  HLT '90, pages 96--101. Association for Computational Linguistics, 1990.
+
+\bibitem{kim:2014}
+Y.~Kim.
+\newblock Convolutional neural networks for sentence classification.
+\newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing}, pages 1746--1751, Oktober 2014.
+
+\bibitem{kurata:2016}
+G.~Kurata, B.~Xiang, B.~Zhou, and M.~Yu.
+\newblock Leveraging sentence-level information with encoder {LSTM} for natural
+  language understanding.
+\newblock {\em CoRR}, abs/1601.01530, 2016.
+
+\bibitem{liu:2013a}
+J.~Liu, P.~Pasupat, S.~Cyphers, and J.~Glass.
+\newblock Asgard: A portable architecture for multilingual dialogue systems.
+\newblock In {\em Proc. ICASSP}, pages 8386--8390, 2013.
+
+\bibitem{liu:2013b}
+J.~Liu, P.~Pasupat, Y.~Wang, S.~Cyphers, and J.~Glass.
+\newblock Query understanding enhanced by hierarchical parsing structures.
+\newblock In {\em Proc. ASRU}, pages 72--77, 2013.
+
+\bibitem{mesnil:2015}
+G.~Mesnil, Y.~Dauphin, K.~Yao, Y.~Bengio, L.~Deng, D.~Hakkani-Tur, X.~He,
+  L.~Heck, G.~Tur, and G.~Zweig D.~Yu.
+\newblock Using recurrent neural networks for slot filling in spoken language
+  understanding.
+\newblock {\em IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}, 23(3):530--539, March 2015.
+
+\bibitem{mesnil:2013}
+G.~Mesnil, X.~He, L.~Deng, and Y.~Bengio.
+\newblock Investigation of recurrent-neural-network architectures and learning
+  methods for spoken language understanding.
+\newblock pages 3771--3775. Proc. Interspeech, January 2013.
+
+\bibitem{ravuri:2015}
+S.~Ravuri and A.~Stolcke.
+\newblock Recurrent neural network and lstm models for lexical utterance
+  classification.
+\newblock In {\em Proc. Interspeech}, pages 135--139. International Speech
+  Communication Association, September 2015.
+
+\bibitem{raymond:2007}
+C.~Raymond and G.~Riccardi.
+\newblock Generative and discriminative algorithms for spoken language
+  understanding.
+\newblock In {\em Proceedings of the Eigth Annual Conference of the
+  International Speech Communication Association}, 2007.
+
+\bibitem{rijsbergen:1979}
+J.~van Rijsbergen.
+\newblock {\em Information Retrieval}.
+\newblock Butterworth, 1979.
+
+\bibitem{vinyals:2015}
+O.~Vinyals, M.~Fortuanto, and N.~Jaitly.
+\newblock Pointer networks.
+\newblock In {\em Advances in Neural Information Processing Systems 28}, pages
+  2692--2700, September 2015.
+
+\bibitem{yang:2016}
+X.~Yang, Y.-N. Chen, D.~Hakkani-Tür, P.~Crook, X.~Li, J.~Gao, and L.~Deng.
+\newblock End-to-end joint learning of natural language understanding and
+  dialogue manager.
+\newblock {\em CoRR}, 2016.
+
+\bibitem{yao:2013}
+K.~Yao, G.~Zweig, M.-Y. Hwang, Y.~Shi, and D.~Yu.
+\newblock Recurrent neural networks for language understanding.
+\newblock Interspeech, August 2013.
+
+\bibitem{zhai:2017}
+F.~Zhai, S.~Potdar, B.~Xiang, and B.~Zhou.
+\newblock Neural models for sequence chunking.
+\newblock January 2017.
+
+\bibitem{zhang:2016}
+X.~Zhang and H.~Wang.
+\newblock A joint model of intent determination and slot filling for spoken
+  language understanding.
+\newblock In {\em Proceedings of the Twenty-Fifth International Joint
+  Conference on Artificial Intelligence}, IJCAI'16, pages 2993--2999. AAAI
+  Press, 2016.
+
+\end{thebibliography}

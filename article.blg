@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: article.aux
+The style file: plain.bst
+Database file #1: quellen.bib
+Warning--empty booktitle in mesnil:2013
+Warning--empty booktitle in yao:2013
+Warning--empty journal in zhai:2017
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            591 strings with 7044 characters,
+and the built_in function-call counts, 7365 in all, are:
+= -- 699
+> -- 384
+< -- 9
++ -- 153
+- -- 134
+* -- 506
+:= -- 1149
+add.period$ -- 55
+call.type$ -- 17
+change.case$ -- 117
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 303
+empty$ -- 559
+format.name$ -- 134
+if$ -- 1617
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 18
+newline$ -- 88
+num.names$ -- 34
+pop$ -- 146
+preamble$ -- 1
+purify$ -- 101
+quote$ -- 0
+skip$ -- 245
+stack$ -- 0
+substring$ -- 408
+swap$ -- 112
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 3
+while$ -- 54
+width$ -- 19
+write$ -- 188
+(There were 3 warnings)

@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Name des ersten Abschnitts}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Unterabschnitt: Texte in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Unterabschnitt: mathematische Formeln}{5}{subsection.1.2}
+\contentsline {section}{\numberline {2}Name des zweiten Abschnitts}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Unterabschnitt}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Unter-Unterabschnitt: Beispiel f\"ur Tabellen}{6}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Unterabschnitt: Beispiel f\"ur Grafiken}{6}{subsection.2.2}
+\contentsline {section}{Literaturverzeichnis}{7}{figure.1}
